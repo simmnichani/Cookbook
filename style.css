@@ -1,0 +1,186 @@
+#profile {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#img3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#img4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#img5 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#img6 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+body {
+    text-align: center;
+}
+
+li {
+    font-size: x-large;
+}
+
+#INGREDIENTS {
+    background-color: #f67280;
+    text-align: left;
+    font-size: 20px;
+}
+
+#INSTRUCTIONS {
+    background-color: #c06c84;
+    text-align: left;
+    padding: 50px;
+    font-size: 42px;
+}
+
+#Review {
+    background-color: #6c5b7b;
+    text-align: center;
+    padding: 50px;
+    font-size: 42px;
+}
+
+body {
+    text-align: center;
+}
+
+#welcome {
+    color: white;
+    background: #f8b195;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+    bottom: 0;
+}
+
+#name {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: cursive;
+}
+
+.div1 {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+p {
+    margin: 25px auto;
+    font-size: 17px;
+    line-height: 1.3;
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 0px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.links {
+    float: left;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.links:hover {
+    background-color: cadetblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+.Gmail_ID {
+    display: inline;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: -100;
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: rgb(96, 168, 236);
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#myCarousel2 {
+    background-color: #b5d0d4;
+}
+
+#myCarousel2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999
+}
